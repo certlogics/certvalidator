@@ -1,2 +1,2 @@
 # certvalidator
-The certValidator offers a solution to enable your existing applications to support CAC/PIV authentication
+Establish the critical root of trust to ensure that your enterprise applications run securely.
